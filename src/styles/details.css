@@ -1,0 +1,20 @@
+.serviceForm {
+    padding: .5em;
+}
+
+.serviceRequests{
+    padding: .5em;
+}
+
+.field{
+    display: flex;
+    flex-direction: column;
+    margin-top: 1em;
+}
+
+.button{
+    margin-top: 2em;
+    background-color: #8b4513;
+    color: rgb(186, 197, 90);
+    font-weight: bold;
+}

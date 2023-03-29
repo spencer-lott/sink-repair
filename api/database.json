@@ -1,0 +1,43 @@
+{
+  "plumbers": [
+    {
+      "id": 1,
+      "name": "Maude"
+    },
+    {
+      "id": 2,
+      "name": "Merle"
+    }
+  ],
+  "completions": [
+    {
+      "requestId": "5",
+      "plumberId": "1",
+      "date_created": 1680031434211,
+      "id": 1
+    }
+  ],
+  "requests": [
+    {
+      "description": "Water heater won't light",
+      "address": "4141 Possum Creek",
+      "budget": "1900",
+      "neededBy": "2023-03-28",
+      "id": 3
+    },
+    {
+      "description": "Clogged toilet",
+      "address": "7894 Mud River Rd",
+      "budget": "275",
+      "neededBy": "2023-03-28",
+      "id": 4
+    },
+    {
+      "description": "Ceiling Leak",
+      "address": "1738 Fetty Wap Streeet",
+      "budget": "450",
+      "neededBy": "2023-03-28",
+      "id": 5
+    }
+  ]
+}
